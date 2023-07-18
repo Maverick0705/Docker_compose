@@ -4,11 +4,11 @@ Use nginx for reverse proxy.
 
 
 Things to do -
-install docker on the machine.
-install docker-compose on the machine.
+1. install docker on the machine.   
+2.install docker-compose on the machine.
 
 Commands to run -
 
-docker-compose build
-docker-compose up
+1. docker-compose build   
+2. docker-compose up
 
